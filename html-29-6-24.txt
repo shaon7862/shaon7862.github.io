@@ -1,0 +1,6 @@
+<html>
+<head>
+<title>Title of document goes here</title>
+</head>
+<body> Visible text goes here...</body>
+</html>
